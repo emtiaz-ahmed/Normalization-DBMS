@@ -1,0 +1,4 @@
+#Table		BCNF	Failed	Reason
+T10			N		2NF		k1->A, k1->C
+T11			N		2NF		k1->c, k2->d
+T15			N		1NF		keys have duplicate values
